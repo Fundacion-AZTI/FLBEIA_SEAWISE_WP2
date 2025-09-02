@@ -1,10 +1,10 @@
 ---
-title: "SEAWISE_FLBEIA_PriceDynamics"
+title: "SEAWISE: Price Dynamics in FLBEIA"
 author:
   - name: "Marga Andrés"
   - name: "Miren Altuna-Etxabe"
   - name: "Affilation: AZTI"
-date: "01/09/2025"
+date: "01 September 2025"
 format:
   html:
     toc: true
@@ -28,7 +28,9 @@ editor: visual
 
 [![](logo.png){fig-align="top" width="100"}](https://seawiseproject.org/)
 
-[Link to SEAWISE web](https://seawiseproject.org/ "SEAWISE") [Link to SEAWISE Github](https://github.com/ices-tools-dev/SEAwise)
+[Link to SEAWISE web](https://seawiseproject.org/ "SEAWISE")
+
+[Link to SEAWISE Github](https://github.com/ices-tools-dev/SEAwise)
 
 ## INTRODUCTION
 
