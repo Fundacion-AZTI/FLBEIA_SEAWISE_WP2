@@ -16,7 +16,6 @@ format:
     code-tools: true
     number-sections: true
     theme: cosmo
-    css: styles.css
     anchor-sections: true
     smooth-scroll: true
     link-external-icon: true
