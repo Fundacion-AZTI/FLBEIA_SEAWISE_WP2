@@ -7,7 +7,6 @@ author:
 date: "01 September 2025"
 format:
   html:
-    css: styles.css
     self-contained: false
     toc: true
     toc-title: "Contents"
