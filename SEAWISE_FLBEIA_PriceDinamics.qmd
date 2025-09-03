@@ -1,4 +1,7 @@
 ---
+project:
+  type: website
+  output-dir: docs
 title: "SEAWISE: Price Dynamics in FLBEIA"
 author:
   - name: "Marga Andrés"
